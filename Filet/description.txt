@@ -1,0 +1,1 @@
+Filet is a Windows application that enables file sharing between computers on a local network, utilizing command-line interfaces like CMD and PowerShell for easy file transformation.
