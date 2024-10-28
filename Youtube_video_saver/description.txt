@@ -1,0 +1,1 @@
+Our app allows users to download YouTube videos in MP4 format and audio in M4A format, with downloads continuing seamlessly even if the app is closed or the phone goes to sleep.
